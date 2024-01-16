@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16ad065e613ed44e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "protocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fe62adb978b7ace1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protocols.md",
-                "mode": "preview",
+                "file": "extensions.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protocols.md",
+                "file": "extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "protocols.md",
+                "file": "extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protocols.md"
+                "file": "extensions.md"
               }
             }
           }
@@ -170,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16ad065e613ed44e",
+  "active": "fe62adb978b7ace1",
   "lastOpenFiles": [
-    "devices.md",
-    "README.md",
+    "protocols.md",
     "basic ideas.md",
-    "protocols.md"
+    "extensions.md",
+    "README.md",
+    "devices.md"
   ]
 }
